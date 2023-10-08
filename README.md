@@ -27,7 +27,6 @@ let words = mnemonic.words
 ```swift
 let words = ["bulk", "oven", "left", "scan", "tube", "always", "present", "abuse", "myself", "income", "hair", "husband", "ritual", "cube", "below", "luggage", "avoid", "slot", "slush", "cover", "february", "major", "give", "nothing"]
 let mnemonic = BIP39Mnemonic(words)!
-print(mnemonic.words)
 ```
 
 ### Generate Bitcoin Address
