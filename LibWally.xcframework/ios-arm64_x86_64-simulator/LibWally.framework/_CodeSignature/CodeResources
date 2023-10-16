@@ -6,59 +6,91 @@
 	<dict>
 		<key>Headers/LibWally-Swift.h</key>
 		<data>
-		w43bZVzTqDzszAh7MZMw85Ey4iU=
+		Ui1U2aeMAxyJrMaQ/WZi924Dusk=
 		</data>
 		<key>Headers/LibWally.h</key>
 		<data>
-		yXoKkErJdeZupNHwsL/Glwx/B2M=
+		gbk2xMAMyvUNckMlGPRdgy0zuc4=
+		</data>
+		<key>Headers/wally_address.h</key>
+		<data>
+		nDyIc2C/+2RqeN+upuCdHRhIf7c=
+		</data>
+		<key>Headers/wally_bip32.h</key>
+		<data>
+		3hlzBxH+5tucsVu7WCP+EHf1ZNQ=
+		</data>
+		<key>Headers/wally_bip38.h</key>
+		<data>
+		m/7N4ObnJOGQjBZ9hHVboJx8TPY=
+		</data>
+		<key>Headers/wally_bip39.h</key>
+		<data>
+		pY0ZRF0At1Vu7fGHodB6mGhVD7I=
+		</data>
+		<key>Headers/wally_core.h</key>
+		<data>
+		seiUhWWcj6qJ+Il5eDxUbejBbeQ=
+		</data>
+		<key>Headers/wally_crypto.h</key>
+		<data>
+		B0udWTEtiNOhnvIS/VQBv5+4XUw=
+		</data>
+		<key>Headers/wally_psbt.h</key>
+		<data>
+		x6NqCQukrAqAKjY+gsntLLZzDTQ=
+		</data>
+		<key>Headers/wally_script.h</key>
+		<data>
+		kBMBtp1goIC8KjDVAngeb+edtBM=
+		</data>
+		<key>Headers/wally_symmetric.h</key>
+		<data>
+		CFPOozsW5zllDdqapCky6XWoJb0=
+		</data>
+		<key>Headers/wally_transaction.h</key>
+		<data>
+		08wXMmDUOUPHhuXqnCJCoSNxicI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VbLrgW7urcsnr3sRIEXMj1nz708=
+		EOG+yIfzYrBo6J7qIrjSSgEAHBw=
 		</data>
-		<key>Modules/LibWally.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Modules/LibWally.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		AkdN/i++ky5SizP/Iv658/F5L5Y=
+		K2ObW6qx9sKsiI7RTJw9XM9B5mw=
 		</data>
-		<key>Modules/LibWally.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/LibWally.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		n1bac0e6JZ7rVg8fSPKxozouNWQ=
+		K2ObW6qx9sKsiI7RTJw9XM9B5mw=
 		</data>
 		<key>Modules/LibWally.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		/isUxW71vh+tAW2EH/puejziAv8=
+		5DMCFCUxGRGEE6Ne/x6Nzm38Zbw=
 		</data>
 		<key>Modules/LibWally.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		n1bac0e6JZ7rVg8fSPKxozouNWQ=
+		a9//EHe9qzf1p46iCQua0iOQ0NI=
 		</data>
 		<key>Modules/LibWally.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cERdfEUFHt4vj/NAUBQFocLsVvY=
+		Zs0zmSTvBoxt43Q+2D5jm+cjloU=
 		</data>
-		<key>Modules/LibWally.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/LibWally.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		AkdN/i++ky5SizP/Iv658/F5L5Y=
+		5DMCFCUxGRGEE6Ne/x6Nzm38Zbw=
 		</data>
-		<key>Modules/LibWally.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/LibWally.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		2Ig/BmpCjFTclSgwQOIycqox9Ds=
+		a9//EHe9qzf1p46iCQua0iOQ0NI=
 		</data>
-		<key>Modules/LibWally.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/LibWally.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Nt/Tg6+2IE/2SAhHoYYCyNx8KKc=
-		</data>
-		<key>Modules/LibWally.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
-		<data>
-		2Ig/BmpCjFTclSgwQOIycqox9Ds=
-		</data>
-		<key>Modules/LibWally.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		ErR0n5rHt7dQc1a453a4pluXhzY=
+		Zs0zmSTvBoxt43Q+2D5jm+cjloU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		eob3fXFNG/xMHdrocdoPUNVZt8c=
+		It/CyY7WGaBjUzOMBD5S22M4Fm0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,91 +99,147 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r6bUkAFwSS0AX7r06Ts8BOE4kAaCQlbE856YI0F+JQY=
+			SVKqMejW2WQ2UFIyDs33dNE8aTU5skMJzfysfVlZywY=
 			</data>
 		</dict>
 		<key>Headers/LibWally.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tCaFLHAIGe/mdbbwKIaXVkOB3QRCcv41P/r8l0M5Ibc=
+			j7/fA96K6/+H8bxe5Eg0wexAd25wuvL+CfDmde8NW7s=
 			</data>
 		</dict>
-		<key>Modules/LibWally.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<key>Headers/wally_address.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/ybEoVSIyRUI4d4Orsp+iMJq8Tj5dOiDjhpzjJmPo6M=
+			wku/+hr5ObKMDJz75zXnRDreIe7UrPEhfSYSc2Oo/Ik=
 			</data>
 		</dict>
-		<key>Modules/LibWally.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Headers/wally_bip32.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kUWpXNKoIF+18/h1j+MAHWPXByIEaxrm43SNkO6jyhI=
+			CgYuFa2OmebVeNhu+gT6GjIJVQJkpRSFMUGDVs7GXl0=
+			</data>
+		</dict>
+		<key>Headers/wally_bip38.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7zvdn9yQ0aJ7w9/TvgR8YIRQlFJfzKVL0hmkgBD7Xwo=
+			</data>
+		</dict>
+		<key>Headers/wally_bip39.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6SqKIylQuRCno1PLqkAdJxn/gvZ9C68FjEB1M+1P1zE=
+			</data>
+		</dict>
+		<key>Headers/wally_core.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PVNE7IfbO8+RjNUm9xUKMQep8RjqQ/QVbJqLqhzoAZE=
+			</data>
+		</dict>
+		<key>Headers/wally_crypto.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5zenXTEnQGSACCrYyHqyCThKYXCsb+FWYmQ7oAiv2Ig=
+			</data>
+		</dict>
+		<key>Headers/wally_psbt.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t5LpDXsooGb4fCg5Zlv021briFJoTMA7QtM9GBWKtDw=
+			</data>
+		</dict>
+		<key>Headers/wally_script.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CD8tW99QIBfYGwwV9Jk9ZA8xj9/tJ7Cx66kl/OQ6k9c=
+			</data>
+		</dict>
+		<key>Headers/wally_symmetric.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H/OKOOUUfV8IwLG+KO0ns/IcDdcjh0gHHtNzF700L/o=
+			</data>
+		</dict>
+		<key>Headers/wally_transaction.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rf2NzVYEyxyPkHaHzvQpiVuP8QNcBL4NlAo+nRx40PU=
+			</data>
+		</dict>
+		<key>Modules/LibWally.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Gl+wRKUSxfDR5SN19Rr+sRVAvqHyrXivKmcBmg9ENPk=
+			</data>
+		</dict>
+		<key>Modules/LibWally.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Gl+wRKUSxfDR5SN19Rr+sRVAvqHyrXivKmcBmg9ENPk=
 			</data>
 		</dict>
 		<key>Modules/LibWally.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHI3HLtgASpFvUiJNxPXR9+7UYjZnS/1Ht9as3zKLMA=
+			+O9sMybwz8rcKomBqPy8V5CDAIeV4JEiWtksGnHfZDM=
 			</data>
 		</dict>
 		<key>Modules/LibWally.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kUWpXNKoIF+18/h1j+MAHWPXByIEaxrm43SNkO6jyhI=
+			9m7bNIC056GOwfu80lFkvi2kMpVhGfG7kf2KAuLdmTY=
 			</data>
 		</dict>
 		<key>Modules/LibWally.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RV6m0h8Ug8OdnIWO0uVrKU97JNjcamgOPHcG8NQvkLI=
+			SUyjILFY59FF2HjQR3YHtkBj9akmDdMeKVPcSs7wSGk=
 			</data>
 		</dict>
-		<key>Modules/LibWally.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<key>Modules/LibWally.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/ybEoVSIyRUI4d4Orsp+iMJq8Tj5dOiDjhpzjJmPo6M=
+			+O9sMybwz8rcKomBqPy8V5CDAIeV4JEiWtksGnHfZDM=
 			</data>
 		</dict>
-		<key>Modules/LibWally.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<key>Modules/LibWally.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wOVzcUTQiHvQf0eQoYPRrSPvZ/fLiI4w5O6J4xzBdcY=
+			9m7bNIC056GOwfu80lFkvi2kMpVhGfG7kf2KAuLdmTY=
 			</data>
 		</dict>
-		<key>Modules/LibWally.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/LibWally.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nf9TWlsHSUm38dvWj9U3aw/D8FrobuTWMceI1E1HpRs=
-			</data>
-		</dict>
-		<key>Modules/LibWally.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wOVzcUTQiHvQf0eQoYPRrSPvZ/fLiI4w5O6J4xzBdcY=
-			</data>
-		</dict>
-		<key>Modules/LibWally.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zz9V6rzfvOJuTaAqIkDzk1His8ki/e/PO+Tj1wIajos=
+			SUyjILFY59FF2HjQR3YHtkBj9akmDdMeKVPcSs7wSGk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aaW/wUAHd7QcEjUKUgmCyBhscztgx0kmd+LCRyYhRWU=
+			mH8nfUl2jx50BueZosMxnSoGPF46fKIBPKRe/Ziq8OI=
 			</data>
 		</dict>
 	</dict>
